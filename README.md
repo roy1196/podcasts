@@ -2,7 +2,7 @@
 
 App de Podcast integrada con la API de AudioBoom para aprender Next.js
 
-![Captura de la app](./.readme-static/captura.png)
+![Captura de la app](./screenshot.png)
 
 [Ver la aplicacion](https://podcast.royhg1496.now.sh)
 
